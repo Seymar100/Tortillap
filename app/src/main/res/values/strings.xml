@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="cebanc_tortillas">CEBANC TORTILLAS</string>
+    <string name="email">CebancTortillas@Cebanc.com</string>
+    <string name="las_gallinas_que_entran_por_las_que_salen">Las gallinas que entran por las que salen. </string>
+    <string name="Direccion">Berio pasealekua, 50, Donostia, Guipuzkoa</string>
+    <string name="tlfno">943.31.69.00</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ubicacion">Nuestra Ubicación</string>
+    <string name="principal">Principal</string>
+    <string name="communicate">Communicate</string>
+    <string name="productos">Productos</string>
+    <string name="realizar_pedido">Realizar Pedido</string>
+    <string name="send">Send</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Dirección</string>
+    <string name="numero_de_movil">Numero De Movil</string>
+    <string name="datos_del_cliente">Datos Del Cliente</string>
+    <string name="e_mail">Email</string>
+    <string name="salir">Salir</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="nuestra_ubicacion">Nuestra Ubicacion</string>
+    <string name="_0">0</string>
+    <string name="a_adir">AÑADIR</string>
+    <string name="campero">CAMPERO</string>
+    <string name="de_granja">DE GRANJA</string>
+    <string name="ecol_gico">ECOLÓGICO</string>
+    <string name="familiar">FAMILIAR</string>
+    <string name="individual">INDIVIDUAL</string>
+    <string name="pedido">PEDIDO:</string>
+    <string name="quitar">QUITAR</string>
+    <string name="tama_o">TAMAÑO</string>
+    <string name="tipos_de_huevo">TIPOS DE HUEVO</string>
+</resources>
